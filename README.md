@@ -1,2 +1,2 @@
-# Sistema_Analise_de_Numeros
- Sistema de análise de números codificado em javascript
+# sistema_analise_de_numeros
+ sistema de análise de números codificado em javascript
